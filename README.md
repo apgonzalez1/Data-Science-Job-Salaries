@@ -7,10 +7,10 @@ Data Science Salaries. This dataset is available from the repository (salaries.a
 The following fields are found in our dataset, along with the number of unique values in each field:
 ● Work_year - The year the salary was paid (3 unique values: 2020, 2021, 2022)
 ● Experience_level - The experience level in the job during the year (4 unique values):
-  ○ EN - Entry-level / Junior
-  ○ MI - Mid-level / Intermediate
-  ○ SE - Senior-level / Expert
-  ○ EX - Executive-level / Director
+  + ○ EN - Entry-level / Junior
+  + ○ MI - Mid-level / Intermediate
+  + ○ SE - Senior-level / Expert
+  + ○ EX - Executive-level / Director
 ● Employment_type - The type of employment for the role (4 unique values):
   ○ PT - Part-time
   ○ FT - Full-time
