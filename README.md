@@ -30,9 +30,9 @@ values)
 values)
 +  Company_size - The average number of people that worked for the company during the year (3
 unique values):
-  +  S - less than 50 employees (small)
-  +  M - 50 to 250 employees (medium)
-  +  L - more than 250 employees (large)
+    +  S - less than 50 employees (small)
+    +  M - 50 to 250 employees (medium)
+    +  L - more than 250 employees (large)
 
 2. Problem Definition & Key Questions:
 Using this data, we want to better understand, as managers, what it may cost to hire dataprofessionals of specific titles and skill levels in various locations. 
