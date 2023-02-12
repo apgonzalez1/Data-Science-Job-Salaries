@@ -12,10 +12,10 @@ The following fields are found in our dataset, along with the number of unique v
     +  SE - Senior-level / Expert
     +  EX - Executive-level / Director
 +  Employment_type - The type of employment for the role (4 unique values):
-  +  PT - Part-time
-  +  FT - Full-time
-  +  CT - Contract
-  +  FL - Freelance
+    +  PT - Part-time
+    +  FT - Full-time
+    +  CT - Contract
+    +  FL - Freelance
 +  Job_title - The role worked in during the year (57 unique values)
 +  Salary - The total gross salary amount paid.
 +  Salary_currency - The currency of the salary paid (17 unique values)
